@@ -1,0 +1,10 @@
+.my-header {
+    width: 100%;
+    background-color: darkcyan;
+    color: white;
+    border-bottom: solid 1px black;
+    /* FLEX */
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
